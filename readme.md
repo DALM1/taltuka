@@ -13,5 +13,3 @@ Taltuka/
 │   └── game.lua      # Logique de jeu (attaques, collisions, état)
 └── README.md         # Documentation (optionnel)
 # taltuka
-# taltuka
-# taltuka
